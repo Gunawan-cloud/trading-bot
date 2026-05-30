@@ -1,0 +1,11 @@
+python-dotenv==1.0.0
+requests==2.31.0
+websocket-client==1.6.4
+numpy==1.24.3
+pandas==2.0.3
+ta-lib==0.4.28
+ccxt==4.0.60
+aiohttp==3.8.5
+pydantic==2.0.0
+python-dateutil==2.8.2
+pytz==2023.3
